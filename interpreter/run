@@ -1,0 +1,3 @@
+#!/bin/bash
+rm parse*
+python interpreter.py
